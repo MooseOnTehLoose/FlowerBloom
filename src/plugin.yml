@@ -6,4 +6,4 @@ api-version: 1.20
 commands:
    flowerbloom:
       description: enable growing flowers with bonemeal
-      usage: "instructions: https://github.com/MooseOnTehLoose/GlowTree"
+      usage: "instructions: https://github.com/MooseOnTehLoose/FlowerBloom"
